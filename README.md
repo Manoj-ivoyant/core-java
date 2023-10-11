@@ -9,6 +9,7 @@ This repository contains hands-on examples and explanations of core Java topics.
 - Multiple catch blocks
 - Nested try blocks
 - Exception propagation
+- Custom exception handling
 
 ## 2. Threads
 
